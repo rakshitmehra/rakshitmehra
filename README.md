@@ -3,7 +3,7 @@
 
 I am a passionate under-grad who aspires to Become a Cyber Security Specialist. A very good learner with exciellent pick up skills.
 
-### Skills : <img align="right" src="https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png" width="300px">
+### Skills : <img align="right" src="[https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png" width="300px](https://www.8webcom.com/wp-content/uploads/2021/06/webdevlopment.jpg)">
 
 - Web Development with HTML, CSS, Javascript
 - Computer Networking
