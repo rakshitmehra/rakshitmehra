@@ -6,7 +6,7 @@ I am a passionate under-grad who aspires to Become a Cyber Security Specialist. 
 ### Skills :
 
 - Web Development with HTML, CSS, Javascript
-- Computer Networking
+- C, C++, Python
 - Graphic Designer
 - Freelancer & Content writer
 <br>
