@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React js, Node js and Next js**
 
-- 👨‍💻 All of my projects are available at [https://rakshitmehra.live](https://rakshitmehra.live)
+- 👨‍💻 All of my projects are available at [rakshitmehra.live](https://rakshitmehra.live)
 
 - 📫 How to reach me **rakshitmehra88@gmail.com**
 
