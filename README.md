@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Rakshit Mehra </h1>
 <h3 align="center">A passionate developer and designer, also focus on learning new skills</h3>
 
-- 🌱 I’m currently learning **React js, Node js and Next js**
+- 🌱 I’m currently learning **React js and Node js**
 
 - 👨‍💻 All of my projects are available at [rakshitmehra.live](https://rakshitmehra.live)
 
@@ -23,6 +23,8 @@
 <br>
 <h3>Wanna discuss anything!!</h3>
   <a href="https://wa.me/918567098852"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  &nbsp; <a href="https://t.me/rakshit_mehra"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp; <a href="mailto:rakshitmehra88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://rakshitmehra.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitmehra&" alt="rakshitmehra" /></p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
