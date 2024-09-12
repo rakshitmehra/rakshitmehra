@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Rakshit Mehra </h1>
 <h3 align="center">A passionate developer and designer, also focus on learning new skills</h3>
 
-- 🌱 I’m currently learning **React js and Node js**
+- 🌱 I’m currently learning **React js, Node js, ML & DL**
 
 - 👨‍💻 All of my projects are available at [rakshitmehra.live](https://rakshitmehra.live)
 
